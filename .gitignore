@@ -3,4 +3,4 @@ secrets.txt
 # entire folders
 /folderName
 # files with a certain extension
-*.txt
+# *.txt
